@@ -41,7 +41,6 @@ var	snacks = ["crackers", "gouda", "thyme"];
 var soup = ["tomato soup", "oyster crackers"];
 
 var cheeses = ["gouda", "cheddar", "camembert"];
-  //create a function that accepts an array as a parameter
 
   function findTheCheese (foods) {
     for (var i = 0; i < foods.length; i++) {
